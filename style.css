@@ -1,0 +1,27 @@
+body {
+  background: lightyellow;
+  font: 20px Arial, sans-serif;
+}
+h1 {
+  color: orange;
+  text-align: center
+}
+h2 {
+  color: orange;
+  text-align: center
+}
+.dgh{
+  text-align: center
+}
+#header {
+height: 630px;
+}
+a{
+text-decoration:none;
+color: black;
+}
+.menu-main{
+  font-size: 30px;
+  text-align: center;
+  background-color:#8B4513;
+}
